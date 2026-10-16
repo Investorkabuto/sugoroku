@@ -9,9 +9,9 @@
 |---|---|---|---|
 | 01 | 全体方針（対象OS、MVPの範囲、前提） | [01-overview.md](01-overview.md) | 仮確定（10/16 更新） |
 | 02 | ゲームルール（達成率、サイコロ、マス、イベント） | [02-game-rules.md](02-game-rules.md) | 下書き |
-| 03 | 服薬スケジュールと通知 | 03-medication.md | 未着手 |
-| 04 | 歩数（HealthKit） | 04-steps.md | 未着手 |
-| 05 | 画面構成と操作の流れ | 05-screens.md | 未着手 |
+| 03 | 服薬スケジュールと通知 | [03-medication.md](03-medication.md) | 下書き |
+| 04 | 歩数（HealthKit） | [04-steps.md](04-steps.md) | 下書き |
+| 05 | 画面構成と操作の流れ | [05-screens.md](05-screens.md) | 下書き |
 | 06 | データモデル | 06-data-model.md | 未着手 |
 | 07 | システム構成とフォルダ構成 | 07-architecture.md | 未着手 |
 | 08 | 安全・プライバシー・アカウント・アクセシビリティ | [08-non-functional.md](08-non-functional.md) | 下書き（アカウントのみ） |
