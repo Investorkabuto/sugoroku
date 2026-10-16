@@ -18,6 +18,7 @@
 | 09 | 開発ステップとテスト方針 | 09-roadmap.md | 未着手 |
 | 10 | 家族と交流（招待、見守り、家族の旅、応援） | [10-social.md](10-social.md) | 下書き |
 | 11 | 収益化 | [11-monetization.md](11-monetization.md) | 下書き |
+| 12 | キャラクターとテーマ（アバター、相棒、絵柄、旅の形） | [12-characters-theme.md](12-characters-theme.md) | 下書き |
 
 状態：未着手 → 下書き → 仮確定 → 確定
 
