@@ -7,7 +7,7 @@
 
 | # | 要素 | ファイル | 状態 |
 |---|---|---|---|
-| 01 | 全体方針（対象OS、MVPの範囲、前提） | [01-overview.md](01-overview.md) | 仮確定 |
+| 01 | 全体方針（対象OS、MVPの範囲、前提） | [01-overview.md](01-overview.md) | 仮確定（10/16 更新） |
 | 02 | ゲームルール（達成率、サイコロ、マス、イベント） | [02-game-rules.md](02-game-rules.md) | 下書き |
 | 03 | 服薬スケジュールと通知 | 03-medication.md | 未着手 |
 | 04 | 歩数（HealthKit） | 04-steps.md | 未着手 |
@@ -16,7 +16,7 @@
 | 07 | システム構成とフォルダ構成 | 07-architecture.md | 未着手 |
 | 08 | 安全・プライバシー・アクセシビリティ | 08-non-functional.md | 未着手 |
 | 09 | 開発ステップとテスト方針 | 09-roadmap.md | 未着手 |
-| 10 | 交流機能（家族・なかまとのやり取り） | 10-social.md | 未着手 |
+| 10 | 家族と交流（招待、見守り、家族の旅、応援） | [10-social.md](10-social.md) | 下書き |
 | 11 | 収益化 | [11-monetization.md](11-monetization.md) | 下書き |
 
 状態：未着手 → 下書き → 仮確定 → 確定
