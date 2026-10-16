@@ -14,7 +14,7 @@
 | 05 | 画面構成と操作の流れ | 05-screens.md | 未着手 |
 | 06 | データモデル | 06-data-model.md | 未着手 |
 | 07 | システム構成とフォルダ構成 | 07-architecture.md | 未着手 |
-| 08 | 安全・プライバシー・アクセシビリティ | 08-non-functional.md | 未着手 |
+| 08 | 安全・プライバシー・アカウント・アクセシビリティ | [08-non-functional.md](08-non-functional.md) | 下書き（アカウントのみ） |
 | 09 | 開発ステップとテスト方針 | 09-roadmap.md | 未着手 |
 | 10 | 家族と交流（招待、見守り、家族の旅、応援） | [10-social.md](10-social.md) | 下書き |
 | 11 | 収益化 | [11-monetization.md](11-monetization.md) | 下書き |
